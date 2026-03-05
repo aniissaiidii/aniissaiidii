@@ -12,8 +12,12 @@
 - Python
 - Selenium (Web Scraping)
 - Power BI
+- Talend Open Studio
 - MySQL
+- PostgreSQL
 - Git & GitHub
+- Android Studio
+- Odoo
 ---
 ## 📫 Contact
 LinkedIn: www.linkedin.com/in/saidi-anis
